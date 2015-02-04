@@ -46,6 +46,7 @@ namespace Fizzbuzz
                     Console.WriteLine(i);
                 }
             }
+            Console.WriteLine("Thats all Folks");
 
         }
     }
